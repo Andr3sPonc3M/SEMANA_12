@@ -188,7 +188,6 @@ def menu():
 
 menu()
 
-
 # Universidad Estatal Amazónica
 # Andrés Ponce M.
-# 2024
+
